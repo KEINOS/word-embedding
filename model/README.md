@@ -71,3 +71,9 @@ Flags:
   -w, --window int          context window size (default 5)
       --xmax int            specifying cutoff in weighting function (default 100)
 ```
+
+## LexVec
+
+```
+LexVec
+```

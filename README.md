@@ -18,10 +18,11 @@ Like this example, the models generate the vectors that could calculate word mea
 
 ## Models
 - [x] Word2Vec
-  - Distributed Representations of Words and Phrases
-and their Compositionality [[pdf]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  - Distributed Representations of Words and Phrases and their Compositionality [[pdf]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - [x] GloVe
   - GloVe: Global Vectors for Word Representation [[pdf]](http://nlp.stanford.edu/pubs/glove.pdf)
+- [ ] LexVec
+  - Matrix Factorization using Window Sampling and Negative Sampling for Improved Word Representations [[pdf]](http://anthology.aclweb.org/P16-2068)
 
 and more...
 
